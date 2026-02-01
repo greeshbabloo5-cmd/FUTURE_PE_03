@@ -1,4 +1,4 @@
-# FUTURU_PE_02
+# FUTURU_PE_03
 AI SEO Blog &amp; Content Cluster Generator
 Task 3: AI SEO Blog & Content Cluster Generator
 Industry: Luxury Beauty & Wellness
